@@ -11,3 +11,7 @@ This repo is an example project used to demonstrate:
 - Editing and committing changes to a README file
 - Opening and merging a Pull Request into `main`
 - Viewing commit history using Git commands
+
+## Second Introduction Collabortion
+- Name: Desiree Veenstra
+- Contribution: Added collaborator section to README.
