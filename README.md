@@ -1,5 +1,6 @@
 # desireeveenstraPublicRemoteRepo1
 
+Remote change made by Desiree. 
 
 ## Introduction
 Hi! My name is Desiree Veenstra, and this repository was created as part of a school project to practice using GitHub and Git version control.
@@ -15,3 +16,5 @@ This repo is an example project used to demonstrate:
 ## Second Introduction Collabortion
 - Name: Desiree Veenstra
 - Contribution: Added collaborator section to README.
+
+Local change made by Desiree.
