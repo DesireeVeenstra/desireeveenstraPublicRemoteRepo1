@@ -15,3 +15,5 @@ This repo is an example project used to demonstrate:
 ## Second Introduction Collabortion
 - Name: Desiree Veenstra
 - Contribution: Added collaborator section to README.
+
+Local change made by Desiree.
